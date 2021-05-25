@@ -43,7 +43,7 @@ function App() {
     <Layout style={{ minHeight: "100vh" }}>
       <Content>
         <div className="main-container">
-          <h1 style={{ marginTop: "50px" }}>Todo App</h1>
+          <h1 style={{ marginTop: "50px" }}>Todo ✅</h1>
           <Card title="Todos">
             <TodoForm onAddTodo={todoAddHandler} />
             <TodoList todos={todos} />
