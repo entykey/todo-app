@@ -7,6 +7,7 @@ A full CRUD app built with react and TypeScript. Backend solution is by Firebase
 
 ## 💻 Stack
 - React
+- Redux
 - TypeScript
 - Firebase
 - Ant Design
