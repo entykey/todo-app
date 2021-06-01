@@ -1,5 +1,5 @@
 # Todo App
-![](https://i.imgur.com/mU9XJ8F.png)
+![](https://i.imgur.com/nItFq25.png)
 
 ## 📝 Description
 
